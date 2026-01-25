@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a 5th year Computer Science student at ESI Algiers<br>🌱 Currently learning Mobile Development & AI Engineering<br>📫 Feel free to reach me out at lm_tirouche@esi.dz</p>
+<p align="left">👨‍💻 I'm a 5th year Computer Science student at ESI Algiers<br>📱 Mobile Developer<br>🌱 Currently learning AI Engineering<br📫 Feel free to reach me out at lm_tirouche@esi.dz</p>
 
 ###
 
