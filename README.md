@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a 5th year Computer Science student at ESI Algiers<br>📱 Mobile Developer<br>🌱 Currently learning AI Engineering<br>📫 Feel free to reach me out at lm_tirouche@esi.dz</p>
+<p align="left">👨‍💻 AI & Mobile Developer · Software Engineer (ESI Algiers) · M2 MIAGE student in Paris-Saclay<br> 🤖 I build AI systems that run in the real world <br> 📱 Mobile developer <br> 🔎 Looking for an AI engineering internship starting March 2027 <br> 📫 Feel free to reach me out at mmahditirouche@gmail.com</p>
 
 ###
 
@@ -35,6 +35,37 @@
 ###
 
 <h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<h4 align="left">🤖 AI / Data</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />      <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="huggingface" />
+</div>
+
 
 ###
 
